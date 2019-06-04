@@ -1,2 +1,8 @@
 # vim
 .swp
+
+# config
+my-wall-less.config
+
+# Mac
+.DS_Store
